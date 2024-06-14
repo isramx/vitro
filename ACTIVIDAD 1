@@ -1,0 +1,21 @@
+<html lang="en"><!-- Nombre del proyecto --><head>
+<title>EQUIPO VITRO</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum, scale=1.0">
+</head>
+
+<body style="font-family: 'Segoe UI'; font size: 70%">
+
+<!-- Nombre del Equipo -->
+<h1>EQUIPO VITRO</h1>
+
+<p>INDEX DE GITHUB</p>
+
+<!-- Integrantes con perfil GitHub -->
+<p>Creado por: VICTOR</p><ul>
+<li><a href="https://github.com/victor-utsc">VICTOR HUGO MENDOZA - 22582</a></li>
+<li><a href="https://github.com/omar-ut/omar-ut.github.io">ANGEL OMAR REYES SANTOS - 22589</a></li>
+<li><a href="https://github.com/isramx">ADOLFO ISRAEL PICAZO ALVARADO - 22586</a></li>
+<li><a href="https://github.com/potrillo19/scs">JAIRO DANIEL PORTILLO TORRES - 2222603</a></li>
+</ul>
+<p></p></body></html>
